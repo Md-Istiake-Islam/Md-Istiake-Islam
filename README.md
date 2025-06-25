@@ -38,7 +38,7 @@ Hi, I’m **Md Istiake Islam**, a passionate full stack web developer from Bangl
 
 ---
 
-## 🔗 Connect with Me
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/md-istiake-islam-4b36b5371/))  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:istiaikislam7@gmail.com)  
@@ -60,7 +60,7 @@ Hi, I’m **Md Istiake Islam**, a passionate full stack web developer from Bangl
 
 ---
 
-<!--# 💫 About Me:
+ 💫 About Me:
 Hi, I’m **Md Istiake Islam**, a passionate full stack web developer from Bangladesh. I specialize in building scalable, responsive web applications using the MERN stack and love working on both frontend and backend challenges. I’m constantly learning and exploring new technologies to stay ahead in the fast-changing web ecosystem.
 
 
